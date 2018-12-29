@@ -12,10 +12,10 @@ The grammar program was created as a part of **Informatics Basics** laboratories
 
 ## Grammar syntax
 `{T},{N},{R},S`
-* T - Terminal symbols, e.g. `a,b`
-* N - Non-terminal symbols, e.g. `S`
-* R - Grammar rules, e.g. `S -> aSa|bSb|a|b|E`
-* S - Start symbol, e.g. `S`
+* **T** - Terminal symbols, e.g. `a,b`
+* **N** - Non-terminal symbols, e.g. `S`
+* **R** - Grammar rules, e.g. `S -> aSa|bSb|a|b|E`
+* **S** - Start symbol, e.g. `S`
 
 `E` is a reserved symbol - used as an empty word
 
