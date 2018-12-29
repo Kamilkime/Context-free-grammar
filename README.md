@@ -17,7 +17,7 @@ The grammar program was created as a part of **Informatics Basics** laboratories
 * R - Grammar rules, e.g. `S -> aSa|bSb|a|b|E`
 * S - Start symbol, e.g. `S`
 
-`E` is a reserved symbol - used a an empty word
+`E` is a reserved symbol - used as an empty word
 
 Example syntaxes:
 * `{a,b,c},{S,T},{S -> aSb|aTb|E, T -> cTc|c},S`
