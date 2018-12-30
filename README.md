@@ -1,5 +1,5 @@
 # Context-free-grammar
-Context-free grammar loader, word generator and word checker
+Console context-free grammar loader, word generator and word checker
 
 ## Purpose
 The grammar program was created as a part of **Informatics Basics** laboratories (Warsaw University of Technology, Electrical Faculty, Applied Computer Science, semester I)
